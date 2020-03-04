@@ -64,3 +64,9 @@ Node.js - https://github.com/nastya-ropot/Yandex.Contest/blob/master/jewelsNode.
 1
 
 ## Решение
+
+JS 1 - https://github.com/nastya-ropot/Yandex.Contest/blob/master/firstConsecutiveNumbersCount.js
+
+JS 2 - https://github.com/nastya-ropot/Yandex.Contest/blob/master/secondConsecutiveNumbersCount.js
+
+Node.js - https://github.com/nastya-ropot/Yandex.Contest/blob/master/consecutiveNumbersCountNode.js
