@@ -30,4 +30,5 @@ aabbccd
 ## Решение
 
 JS - https://github.com/nastya-ropot/Yandex.Contest/blob/master/jewels.js
+
 Node.js - https://github.com/nastya-ropot/Yandex.Contest/blob/master/jewelsNode.js
